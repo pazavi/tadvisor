@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Travel Companion Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+oogle Maps API & Google Places API, fetching API data based on the location, data filtering, Material Ui.
 
 ## Available Scripts
 
