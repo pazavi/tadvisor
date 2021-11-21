@@ -1,6 +1,6 @@
 # Travel Companion Application
 
-oogle Maps API & Google Places API, fetching API data based on the location, data filtering, Material Ui.
+Google Maps API & Google Places API, fetching API data based on the location, data filtering, Material Ui.
 
 ## Available Scripts
 
